@@ -1,6 +1,6 @@
 # THE FIELD | Part 2 of the HTML-CSS course | Responsive
 
-_Repo created as part of the [BeCode web development training](https://becode.org/fr/apprendre/developpeur-web-junior/)_!
+_Repo created as part of the [BeCode web development training](https://becode.org/fr/apprendre/developpeur-web-junior/)_
 
 * Mode : solo work
 * Type of challenge : learning
